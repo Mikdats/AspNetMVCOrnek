@@ -1,0 +1,3 @@
+25.40.2022 18:40:39*******Uygulama başladı * *****
+25.40.2022 18:40:41Home/Index çağrıldı. 4 adet öğrenci listelendi
+25.40.2022 18:40:57Home/Index çağrıldı. 4 adet öğrenci listelendi
